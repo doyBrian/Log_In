@@ -1,6 +1,9 @@
 # Log_In
 A simple log in page with password validation.
 
+## Deployed Link
+https://doybrian.github.io/Log_In/
+
 ### Design Plan
 This project is part of a coding test for the Web Analyst position at Level Access.
 
